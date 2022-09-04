@@ -6,7 +6,7 @@
 
     <groupId>com.mombesoft.tutorials.libs</groupId>
     <artifactId>todo-lib-prepa</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.2-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -35,7 +35,7 @@
     </distributionManagement>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/my-org/my-project.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/mombe090/todo-lib.git</developerConnection>
     </scm>
 
     <build>
